@@ -1,0 +1,47 @@
+{
+    "caseSensitive": false,
+    "properties": {
+        "name": "sub",
+        "description": "",
+        "icon": "arrows-v",
+        "environment": {
+            "type": "noflo-browser"
+        }
+    },
+    "inports": {
+        "element": {
+            "process": "css/MoveElement_7uh3o",
+            "port": "element",
+            "metadata": {
+                "x": 540,
+                "y": 396,
+                "width": 72,
+                "height": 72
+            }
+        }
+    },
+    "outports": {
+        "out": {
+            "process": "css/MoveElement_7uh3o",
+            "port": "out",
+            "metadata": {
+                "x": 828,
+                "y": 396
+            }
+        }
+    },
+    "groups": [],
+    "processes": {
+        "css/MoveElement_7uh3o": {
+            "component": "css/MoveElement",
+            "metadata": {
+                "label": "MoveElement",
+                "x": 684,
+                "y": 396,
+                "width": 72,
+                "height": 72
+            }
+        }
+    },
+    "connections": []
+}

@@ -1,0 +1,25 @@
+{
+    "caseSensitive": false,
+    "properties": {
+        "name": "main",
+        "environment": {
+            "type": "noflo-browser"
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {
+        "test/sub_agil0": {
+            "component": "test/sub",
+            "metadata": {
+                "label": "sub",
+                "x": 504,
+                "y": 396,
+                "width": 72,
+                "height": 72
+            }
+        }
+    },
+    "connections": []
+}
